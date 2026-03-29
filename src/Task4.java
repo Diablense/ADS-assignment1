@@ -1,3 +1,4 @@
+//complexity: O(n)
 public void printReverse(int n, Scanner scanner){
     if(n==0){
         return;

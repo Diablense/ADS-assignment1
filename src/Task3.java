@@ -1,3 +1,4 @@
+//complexity: O(n)
 public int powerSum(int n, int b,int bPower){
     if(n==0){
         return 0;//stops recursion and returns zero to ensure that i+1 does not exceed n
